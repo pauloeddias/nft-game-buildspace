@@ -14,7 +14,7 @@
             "request": "launch",
             "cwd": "${workspaceFolder}",
             "runtimeExecutable": "npx",
-            "runtimeArgs":["hardhat","run","scripts/deploy.js", "--network", "rinkeby"]
+            "runtimeArgs":["hardhat","run","scripts/deploy.js", "--network", "goerli"]
         }
     ]
 }
